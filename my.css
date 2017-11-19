@@ -163,6 +163,7 @@ ul li p{
 .sec {
   margin-left: 1%;
   margin-right: 1%;
+  overflow-x:hidden;
 }
 
 #sec_body ul li{
