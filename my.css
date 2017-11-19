@@ -171,7 +171,7 @@ ul li p{
 }
 
 .fillier_foot{
-  position: absolute;
+  position: relative;
   bottom: 0;
   padding-top: 2em;
   padding-bottom: 2em;
